@@ -2,7 +2,7 @@
 
 ![The Wildwood Valley](https://raw.githubusercontent.com/the-wildwood-valley/the-wildwood-valley/main/valley.png)
 
-* en: The Wildwood Valley - A school of learning through play games
+* en: The Wildwood Valley - A school of learning through playing games
 * es: La Wildwood Valo - lernejo de lernado tra ludludoj
 * fr: La vallée de Wildwood - Une école d'apprentissage par le jeu
 * de: Das Wildwood Valley - Eine Schule des Lernens durch Spiele
